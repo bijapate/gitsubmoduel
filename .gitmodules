@@ -1,3 +1,6 @@
 [submodule "mlflow"]
 	path = mlflow
 	url = https://github.com/mlflow/mlflow.git
+[submodule "Examples"]
+	path = Examples
+	url = https://github.com/bijapate/Examples.git
